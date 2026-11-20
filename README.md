@@ -30,7 +30,7 @@ Each input item produces one linked output item with the original response envel
 
 ## Development and support
 
-Run `npm ci --ignore-scripts`, `npm test`, and `npm run review` to build and validate the package with the n8n node CLI and community package scanner. Source and release automation: [saeedmsdi-ugchooks/n8n-nodes-ugchooks](https://github.com/saeedmsdi-ugchooks/n8n-nodes-ugchooks). Report node issues in [GitHub Issues](https://github.com/saeedmsdi-ugchooks/n8n-nodes-ugchooks/issues).
+Run `npm ci --ignore-scripts`, `npm test`, and `npm run review` to build and validate the package with the n8n node CLI and community package scanner. Source and release automation: [ugchooks/n8n-nodes-ugchooks](https://github.com/ugchooks/n8n-nodes-ugchooks). Report node issues in [GitHub Issues](https://github.com/ugchooks/n8n-nodes-ugchooks/issues).
 
 Product: [UGCHooks](https://ugchooks.app) · [n8n guide](https://ugchooks.app/integrations/n8n/) · [Privacy](https://ugchooks.app/privacy/)
 

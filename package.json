@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-ugchooks",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Turn product links into TikTok and Reels posts with the UGCHooks REST API: create batches, read hooks, captions, hashtags and render links.",
 	"license": "MIT",
 	"homepage": "https://ugchooks.app/integrations/n8n/",
@@ -21,10 +21,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/saeedmsdi-ugchooks/n8n-nodes-ugchooks.git"
+		"url": "git+https://github.com/ugchooks/n8n-nodes-ugchooks.git"
 	},
 	"bugs": {
-		"url": "https://github.com/saeedmsdi-ugchooks/n8n-nodes-ugchooks/issues"
+		"url": "https://github.com/ugchooks/n8n-nodes-ugchooks/issues"
 	},
 	"scripts": {
 		"build": "n8n-node build",
